@@ -1,0 +1,4 @@
+username-input: '//*[@resource-id="com.traveloka.android/email"]'
+password-input: '//*[@resource-id="com.traveloka.android:id/password"]'
+log-in-button: '//*[@resource-id="com.traveloka.android:id/login"]'
+

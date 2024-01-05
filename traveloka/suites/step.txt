@@ -1,0 +1,30 @@
+Test Case Login
+1. Positive case -login
+2. Negative case - login (wrong username and password)
+
+Test Case Search Booking Id (Flight Number)
+test step:
+1. Open Flight Application
+2. Click Sign In Button On Home Page
+3. Login with valid username and password
+4. Click Search Toolbar in Main menu
+5. Input Flight Number in Serach Page - Valid Id
+6. Click Search Button in Search Page   
+7. Application will show the detail of Booking Id
+
+Test Case Book (Booking One Way Flight)
+test step:
+1. Open Flight Application
+2. Click Sign In Button On Home Page
+3. Login with valid username and password
+4. Click Booking Toolbar in Main menu
+5. Select Value From City 
+6. Select Value Seat Class
+7. Select Value Start Date
+8. Select Value End Date
+9. Select Value Additional
+10. Click Book Button on Book Page
+11. Click Price and Date Available
+12. Click Button Confrim on Order Page
+13. Application will show "Your Flight is booked"
+
